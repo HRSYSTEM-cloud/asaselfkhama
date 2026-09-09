@@ -160,10 +160,10 @@ export const Hero: React.FC<HeroProps> = ({
                 </div>
 
                 {/* The 3D Metallic Emblem Image */}
-                <div className="relative mt-3 rounded-xl overflow-hidden aspect-square sm:aspect-[4/5] bg-black/40 border border-[#243346] flex items-center justify-center">
+                <div className="relative mt-3 rounded-xl overflow-hidden aspect-square bg-[#0C121D] border border-[#243346] flex items-center justify-center">
                   <img 
                     src={emblemImage} 
-                    alt="شعار شركة أساس الفخامة للسجاد والموكيت ثلاثي الأبعاد" 
+                    alt="شعار شركة أساس الفخامة للسجاد والموكيت الرسمي" 
                     className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
                   />
 

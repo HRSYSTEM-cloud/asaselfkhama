@@ -5,7 +5,7 @@ import heroImage from '../assets/images/hero_luxury_carpet_1788980841329.jpg';
 import herekeImage from '../assets/images/hereke_silk_carpet_1788980858892.jpg';
 import konyaImage from '../assets/images/konya_wool_rug_1788980874038.jpg';
 import kayseriImage from '../assets/images/kayseri_luxury_rug_1788980887990.jpg';
-import emblemImage from '../assets/images/asas_official_logo_1788981704664.jpg';
+import emblemImage from '../assets/images/asas_fakhama_calligraphy_logo_1788983160735.jpg';
 
 export { heroImage, emblemImage };
 
